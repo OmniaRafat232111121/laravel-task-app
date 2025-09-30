@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Laravel Task App - Frontend Experience
 
 A modern Laravel application built with Tailwind CSS, Alpine.js, and Vite, featuring a responsive design, dark/light theme toggle, multi-language support, and full CRUD operations.
@@ -221,6 +220,3 @@ This project is open-sourced software licensed under the [MIT license](https://o
 ---
 
 **Built with ❤️ using Laravel, Tailwind CSS, and Alpine.js**
-=======
-# laravel-task-app
->>>>>>> 707ba822083dcd879830fc661c26d0318b0bd8dc
