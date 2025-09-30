@@ -205,18 +205,4 @@ For full Laravel deployment:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## 🎉 Acknowledgments
-
-- Laravel Framework
-- Tailwind CSS
-- Alpine.js
-- Heroicons
-- Vite
-
----
-
-**Built with ❤️ using Laravel, Tailwind CSS, and Alpine.js**
